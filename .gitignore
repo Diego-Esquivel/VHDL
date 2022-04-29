@@ -1,0 +1,11 @@
+*.txt
+*.bak
+*.json
+*.pdf
+*.qpf
+*.qsf
+*.qws
+*.vwf
+*/db/*
+*/output_files/*
+*/simulation/*
